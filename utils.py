@@ -14,7 +14,7 @@ def tokenize_math_text(text):
     for part in parts:
         if part.startswith(r"\(") and part.endswith(r"\)"):
             # 수식 부분 → 괄호 제거
-            expr = part[2:-2].strip()
+            expr = part[2: -2].strip()
             # 수식 토큰화 (숫자, 변수, 연산자 분리)
             math_tokens = re.findall(r"[A-Za-z]+|\d+|[\^\+\-\*/=(){}]|\\[a-zA-Z]+", expr)
             tokens.extend(math_tokens)
