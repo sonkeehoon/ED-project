@@ -5,6 +5,3 @@
 - 05_question_type_classification feature selection 부터
     - 분류를 어떻게 해야할지 조사가 필요함
     - 생성형 ai에게 질문, 데이터 존재 여부 조사
-
-해설지 경로
-C:\Users\user0401\Desktop\이어드림프로젝트데이터\수학시험지
