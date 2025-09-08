@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3] - 2025-09-08
+### Added
+- README.md 내용 수정
+
+### Changed
+- ipynb 파일 마크다운 내용 수정
+
 ## [0.0.2] - 2025-09-07
 ### Added
 - README.md 내용 수정
