@@ -1,7 +1,7 @@
 /venv
 /pdf-venv
 /__pycache__
-Cell output dfhead \[DW].csv
+# Cell output dfhead \[DW].csv
 /workspace.md
 05_question_type_classification.ipynb
 06_similar_question_recommendation.ipynb
