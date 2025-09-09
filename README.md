@@ -5,6 +5,23 @@
 
 주제 선정부터 모델링까지 스스로 문제를 정의하고 방법을 선택하여 수행한 결과물입니다.
 
+## 프로젝트 노트북 (Colab 링크)
+
+> GitHub에서 `.ipynb` 파일이 잘 열리지 않거나, 셀 실행이 바로 안 될 경우  
+> 아래 Colab 링크를 클릭하면 실행된 상태의 노트북을 바로 확인할 수 있습니다.
+
+- [01_preprocessing.ipynb](https://colab.research.google.com/github/sonkeehoon/ED-project/blob/main/01_preprocess.ipynb)  
+  데이터 정제, 파생 컬럼 생성, 변환 과정
+
+- [02_eda.ipynb](https://colab.research.google.com/github/sonkeehoon/ED-project/blob/main/02_eda.ipynb)  
+  데이터 시각화, 요약, 통계량 확인, 가설 검정
+
+- [03_difficulty_prediction.ipynb](https://colab.research.google.com/github/sonkeehoon/ED-project/blob/main/03_difficulty_prediction.ipynb)  
+  문제 난이도 분류 모델 학습 및 평가
+
+- [04_answer_rate_regression.ipynb](https://colab.research.google.com/github/sonkeehoon/ED-project/blob/main/04_answer_rate_regression.ipynb)  
+  정답률 예측 회귀 모델 구현
+
 ## 프로젝트 구조
 ```
 ED-project/
