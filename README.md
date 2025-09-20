@@ -9,6 +9,8 @@
 - OS: Ubuntu 24.04 (WSL2)
 - Python: 3.12.3
 - 가상환경: venv 사용
+- 패키지 설치: requirements.txt 기반
+- Notebook 환경: VSCode 내 Jupyter 확장으로 .ipynb 파일 작업
 
 ## 프로젝트 노트북 (Colab 링크)
 
@@ -47,3 +49,4 @@ ED-project/
 ├── requirements.txt                  # 필요 파이썬 패키지 목록
 ├── utils.py                          # 유틸리티 함수모음 파일
 ```
+
