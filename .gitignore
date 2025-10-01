@@ -2,5 +2,4 @@
 /pdf-venv
 /__pycache__
 /workspace.md
-05_question_type_classification.ipynb
 06_similar_question_recommendation.ipynb
