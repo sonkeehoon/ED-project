@@ -1,7 +1,15 @@
 # Changelog
 
-## [0.0.3] - 2025-09-08
+## [0.0.4] - 2025-10-05
+### Changed
+- README.md
+- .gitignore
+- 05_question_type_classification.ipynb : 작업 마무리
 ### Added
+- tmp.csv : 분류용 csv 파일
+
+## [0.0.3] - 2025-09-08
+### Changed
 - README.md 내용 수정
 
 ### Changed

@@ -1,9 +1,12 @@
 # ED-project
-📄 [프로젝트 문서 (Notion)](https://www.notion.so/2103c85c39ef80e1b456d0a53ff84089)
+📄 [프로젝트 개요 문서 (Notion)](https://www.notion.so/2103c85c39ef80e1b456d0a53ff84089)
 
 본 포트폴리오는 외부 강의나 튜토리얼을 단순히 따라한 것이 아니라, 
 
 주제 선정부터 모델링까지 스스로 문제를 정의하고 방법을 선택하여 수행한 결과물입니다.
+
+### **결과 모델기반 웹 앱 구현(결과만 확인하고 싶은 경우)**
+- https://github.com/sonkeehoon/ED-app
 
 ## 실행 환경
 <img width="306" height="78" alt="image" src="https://github.com/user-attachments/assets/f6a6f9d1-819d-4024-b3ab-454b2861400a" />
@@ -20,16 +23,19 @@
 > 아래 Colab 링크를 클릭하면 실행된 상태의 노트북을 바로 확인할 수 있습니다.
 
 - [01_preprocessing.ipynb](https://colab.research.google.com/github/sonkeehoon/ED-project/blob/main/01_preprocess.ipynb)  
-  데이터 정제, 파생 컬럼 생성, 변환 과정
+  - 데이터 정제, 파생 컬럼 생성, 변환 과정
 
 - [02_eda.ipynb](https://colab.research.google.com/github/sonkeehoon/ED-project/blob/main/02_eda.ipynb)  
-  데이터 시각화, 요약, 통계량 확인, 가설 검정
+  - 데이터 시각화, 요약, 통계량 확인, 가설 검정
 
 - [03_difficulty_prediction.ipynb](https://colab.research.google.com/github/sonkeehoon/ED-project/blob/main/03_difficulty_prediction.ipynb)  
-  문제 난이도 분류 모델 학습 및 평가
+  - 문제 난이도 분류 모델 학습 및 평가
 
 - [04_answer_rate_regression.ipynb](https://colab.research.google.com/github/sonkeehoon/ED-project/blob/main/04_answer_rate_regression.ipynb)  
-  정답률 예측 회귀 모델 구현
+  - 정답률 예측 회귀 모델 구현
+
+- [05_question_type_classification](https://colab.research.google.com/github/sonkeehoon/ED-project/blob/main/05_question_type_classification.ipynb)
+  - 문제유형 자동분류
 
 ## 프로젝트 구조
 ```
