@@ -6,7 +6,7 @@
 주제 선정부터 모델링까지 스스로 문제를 정의하고 방법을 선택하여 수행한 결과물입니다.
 
 ### **결과 모델기반 웹 앱 구현(결과만 확인하고 싶은 경우)**
-- https://github.com/sonkeehoon/ED-app
+- [https://huggingface.co/spaces/santakan/gr-math-genius](https://huggingface.co/spaces/santakan/gr-math-genius)
 
 ## 실행 환경
 <img width="306" height="78" alt="image" src="https://github.com/user-attachments/assets/f6a6f9d1-819d-4024-b3ab-454b2861400a" />
