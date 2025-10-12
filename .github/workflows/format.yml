@@ -2,7 +2,7 @@ name: Code Formatter (Black + isort)
 
 on:
   push:
-    branches: [ "main", "develop" ]
+    branches: [ "sonkeehoon-pylint" ]
   pull_request:
 
 jobs:
