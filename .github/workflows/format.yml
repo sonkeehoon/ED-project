@@ -4,6 +4,10 @@ name: Code Formatter (Black + isort)
 on:
   push:
     branches: [ "sonkeehoon-pylint" ]  # ✅ 예시: develop에서만 자동 수정되게
+  workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ GITHUB_TOKEN이 push할 수 있도록 설정
 
 jobs:
   format:
