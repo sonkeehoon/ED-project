@@ -3,7 +3,7 @@ name: Code Formatter (Black + isort)
 
 on:
   push:
-    branches: [ "sonkeehoon-pylint" ]  # ✅ 예시: develop에서만 자동 수정되게
+    branches: [ "question_type_clf" ]  # ✅ 예시: develop에서만 자동 수정되게
   workflow_dispatch:
 
 permissions:
