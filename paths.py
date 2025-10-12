@@ -1,8 +1,8 @@
 # paths.py
 
-'''
+"""
 데이터 파일 경로 설정
-'''
+"""
 
 from pathlib import Path
 
