@@ -5,6 +5,9 @@
 
 주제 선정부터 모델링까지 스스로 문제를 정의하고 방법을 선택하여 수행한 결과물입니다.
 
+## 워크 플로우
+<img width="2942" height="1300" alt="ED-project-diagram-2025-10-15-111642" src="https://github.com/user-attachments/assets/ff2a8803-f0e6-42db-a313-b651653394c3" />
+
 ### **결과 모델기반 웹 앱 구현(결과만 확인하고 싶은 경우)**
 - [https://huggingface.co/spaces/santakan/gr-math-genius](https://huggingface.co/spaces/santakan/gr-math-genius)
 
@@ -57,5 +60,6 @@ ED-project/
 ├── requirements.txt                  # 필요 파이썬 패키지 목록
 ├── utils.py                          # 유틸리티 함수모음 파일
 ```
+
 
 
