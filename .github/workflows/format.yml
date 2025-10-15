@@ -3,7 +3,11 @@ name: Code Formatter (Black + isort)
 
 on:
   push:
-    branches: [ "question_type_clf" ]  # ✅ 예시: develop에서만 자동 수정되게
+    branches: [ "main", "question_type_clf" ]  # ✅ 예시: develop에서만 자동 수정되게
+    paths:
+      - "crawler/*.py"
+      - "paths.py"
+      - "utils.py"
   workflow_dispatch:
 
 permissions:
